@@ -95,8 +95,6 @@ Data-Job-Market-Analysis/
 │
 ├── Data_Job_Market_Analysis.ipynb
 ├── README.md
-├── requirements.txt
-└── images/
 ```
 
 ---
