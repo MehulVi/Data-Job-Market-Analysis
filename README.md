@@ -1,6 +1,3 @@
-# Data-Job-Market-Analysis
-
-````markdown
 # Data Job Market Analysis
 
 ## Project Overview
@@ -57,6 +54,7 @@ The dataset contains:
 ---
 
 ## Key Analysis Performed
+
 ### 1. Job Opportunities Analysis
 - Top job locations for Data Analysts
 - Remote work opportunities
@@ -91,6 +89,7 @@ The dataset contains:
 ---
 
 ## Files Included
+
 ```text
 Data-Job-Market-Analysis/
 │
@@ -98,12 +97,11 @@ Data-Job-Market-Analysis/
 ├── README.md
 ├── requirements.txt
 └── images/
-````
+```
 
 ---
 
 ## How to Run the Project
-
 1. Clone the repository
 2. Install required libraries
 3. Open the notebook in Jupyter Notebook or Google Colab
@@ -120,20 +118,14 @@ pip install pandas matplotlib seaborn datasets
 ---
 
 ## Future Improvements
-
-* Add salary trend analysis
-* Build interactive dashboards
-* Add Power BI visualizations
-* Deploy project using Streamlit
+- Add salary trend analysis
+- Build interactive dashboards
+- Add Power BI visualizations
+- Deploy project using Streamlit
 
 ---
 
 ## Author
-
 Mehul Vishwakarma
 
 Aspiring Data Analyst skilled in Python, SQL, Pandas, and Data Visualization.
-
-````
-
----
